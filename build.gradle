@@ -1,0 +1,36 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        jcenter()
+        mavenCentral()
+    }
+    dependencies {
+        // Gradle
+        classpath 'com.android.tools.build:gradle:2.2.1'
+        // Retrolambda
+        classpath 'me.tatarka:gradle-retrolambda:3.2.5'
+        // Dagger2, ButterKnife
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+ext {
+    compileVersion = 24
+    buildVersion = '24.0.0'
+    minVersion = 19
+    targetVersion = 24
+}
+
+ext {
+    supportLibraryVersion = '24.2.1'
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

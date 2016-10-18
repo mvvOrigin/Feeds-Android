@@ -1,0 +1,47 @@
+[
+  {
+    "id":1,
+    "auth_name":"Brandon Lall",
+    "auth_photo":"file:///android_asset/brandon.jpg",
+    "text":"According to a planning document obtained by VentureBeat, Samsung and U.S carriers are preparing to resume sales of the Galaxy Note7 in the U.S on October 21st.",
+    "image":"file:///android_asset/feed1.jpg",
+    "likes":10,
+    "shares":4
+  },
+  {
+    "id":2,
+    "auth_name":"Brandon Lall",
+    "auth_photo":"file:///android_asset/brandon.jpg",
+    "text":" Google is partnering with 50+ of the world’s leading natural history institutions to bring the lost world to life again online.",
+    "image":"file:///android_asset/feed2.jpg",
+    "likes":10,
+    "shares":4
+  },
+  {
+    "id":3,
+    "auth_name":"Brandon Lall",
+    "auth_photo":"file:///android_asset/brandon.jpg",
+    "text":"Yet another Google advertisement for their upcoming event.",
+    "image":"file:///android_asset/feed3.jpg",
+    "likes":10,
+    "shares":4
+  },
+  {
+    "id":4,
+    "auth_name":"Brandon Lall",
+    "auth_photo":"file:///android_asset/brandon.jpg",
+    "text":"According to Variety's sources, Google is talking to third-party consumer electronic manufacturers about creating devices that work like Google Home.",
+    "image":"file:///android_asset/feed4.jpg",
+    "likes":10,
+    "shares":4
+  },
+  {
+    "id":5,
+    "auth_name":"Brandon Lall",
+    "auth_photo":"file:///android_asset/brandon.jpg",
+    "text":"Android Wear 2.0 Developer Preview 3 is now available and it adds the ability to view recommended Play Store apps from the home view, as well as search for apps using your voice, the virtual keyboard or through handwriting input.",
+    "image":"file:///android_asset/feed5.jpg",
+    "likes":10,
+    "shares":4
+  }
+]

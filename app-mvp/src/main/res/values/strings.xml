@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Feeds MVP</string>
+
+    <string name="feeds_updated">Feeds updated.</string>
+    <string name="feeds_error">Oops, try later.</string>
+
+    <string name="feed_clicked">Feed clicked</string>
+
+    <string name="feed_liked">Feed liked</string>
+    <string name="feed_disliked">Feed disliked</string>
+    <string name="feed_shared">Feed shared</string>
+    
+</resources>
